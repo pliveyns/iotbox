@@ -1,0 +1,8 @@
+dnf:
+  - zsh
+  - neovim
+  - neofetch
+  - bat
+  - ripgrep
+  - lsd
+  - tio
