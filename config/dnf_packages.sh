@@ -1,4 +1,4 @@
-#!#/usr/bin/env bash
+#!/usr/bin/env bash
 #
 # Install dnf packages from recipe.yml
 #
