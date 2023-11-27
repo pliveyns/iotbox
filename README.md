@@ -26,11 +26,6 @@ If you use toolbx:
     toolbox create -i ghcr.io/pliveyns/iotbox -c iotbox
     toolbox enter iotbox
 
-### Pull down your config
-
-Use `chezmoi` to pull down your dotfiles and set up git sync.
-
-
 ## Verification
 
 These images are signed with sisgstore's [cosign](https://docs.sigstore.dev/cosign/overview/). You can verify the signature by downloading the `cosign.pub` key from this repo and running the following command:
