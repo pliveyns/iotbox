@@ -6,3 +6,4 @@ dnf:
   - ripgrep
   - lsd
   - tio
+  - python3
