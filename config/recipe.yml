@@ -7,3 +7,6 @@ dnf:
   - lsd
   - tio
   - python3
+
+pip:
+  - platformio
