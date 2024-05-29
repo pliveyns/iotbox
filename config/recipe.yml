@@ -11,6 +11,8 @@ dnf:
 
 pip:
   - platformio
+  - rshell
+  - mpremote
 
 binary:
-  - host-spawn: https://github.com/1player/host-spawn/releases/download/1.5.1/host-spawn-x86_64
+  - host-spawn: https://github.com/1player/host-spawn/releases/download/1.6.0/host-spawn-x86_64
