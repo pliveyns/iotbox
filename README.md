@@ -5,9 +5,10 @@
 iotbox is a Fedora toolbox with some tools for serial connection and Platformio core
 
 Installed tools:
-  - tio              Serial terminal emulator
-  - platformio core  IOT development environment
-  - zsh              default shell
+  - tio:                Serial terminal emulator
+  - platformio core:    IOT development environment
+  - zsh:                default shell
+  - rshell & mpremote:  Connect to micropython boards
 
 This is based on Universal Blue's boxkit.
 Checkout (https://github.com/ublue-os/boxkit)
