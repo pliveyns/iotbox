@@ -1,10 +1,10 @@
 dnf:
   - zsh
   - neovim
-  - neofetch
+  - fastfetch
   - bat
   - ripgrep
-  - lsd
+  - eza
   - tio
   - python3
   - python3-pip
