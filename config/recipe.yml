@@ -15,4 +15,4 @@ pip:
   - mpremote
 
 binary:
-  - host-spawn: https://github.com/1player/host-spawn/releases/download/v1.6.0/host-spawn-x86_64
+  - host-spawn: https://github.com/1player/host-spawn/releases/download/v1.6.1/host-spawn-x86_64
